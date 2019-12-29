@@ -1,0 +1,162 @@
+[
+    {
+      "id":1,
+      "name":"Haji Muhammad Younis",
+      "company":"sharkpur Flour Mills",
+      "address":"Lahore Road Okara",
+      "cell":"03216950240",
+      "crop_name":"Wheat"
+    },
+    {
+      "id":2,
+      "name":"Haji Nadeem Akram",
+      "company":"Naik Barkat Corporation",
+      "address":"Smad Pura Road Okara",
+      "cell":"03457444666",
+      "crop_name":"Wheat"
+    },
+    {
+      "id":3,
+      "name":"Haji Muhammad Waseem",
+      "company":"Qamar Floor Mills",
+      "address":"Satghara Chowk Faislabad Road Okara",
+      "cell":"03449000101",
+      "crop_name":"Wheat"
+    },
+    {
+      "id":4,
+      "name":"Fareed Tariq Khan",
+      "company":"Tariq Floor Mills",
+      "address":"Akbar Road Okara",
+      "cell":"03008431373",
+      "crop_name":"Wheat"
+    },
+    {
+      "id":5,
+      "name":"Shukat Ali",
+      "company":"Baba Farid Sugar Mills",
+      "address":"31\/2:L Okara",
+      "cell":"03004728723",
+      "crop_name":"SugerCane"
+    },
+    {
+      "id":6,
+      "name":"Muhammad Irshad",
+      "company":"Ravi Rice Mills",
+      "address":"Faislabad Road Okara",
+      "cell":"03006950027",
+      "crop_name":"Rice"
+    },
+    {
+      "id":7,
+      "name":"Maskeen Ali",
+      "company":"Chohan Rice Mills",
+      "address":"Kusar Town Okara",
+      "cell":"03018699404",
+      "crop_name":"Rice"
+    },
+    {
+      "id":8,
+      "name":"Muhammad Bilal",
+      "company":"Haq Bahu Rice Mill",
+      "address":"Fateh Pur Town Okara",
+      "cell":"03006952912",
+      "crop_name":"Rice"
+    },
+    {
+      "id":9,
+      "name":"Gulzar Ahmad",
+      "company":"KarmanWala Rice Mill",
+      "address":"Akbar Road Okara",
+      "cell":"03216952676",
+      "crop_name":"Rice"
+    },
+    {
+      "id":10,
+      "name":"Muhammad Azam",
+      "company":"Malik Rice Mills",
+      "address":"Lahore Road Okara",
+      "cell":"03216952017",
+      "crop_name":"Rice"
+    },
+    {
+      "id":11,
+      "name":"Khalid Hussain",
+      "company":"Pak Rice Mills",
+      "address":"Depalpur Road Okara",
+      "cell":"03347404066",
+      "crop_name":"Rice"
+    },
+    {
+      "id":12,
+      "name":"Muhammad Iqbal",
+      "company":"H. Ali Nawaz Rice Mills",
+      "address":"Depalpur Road Okara",
+      "cell":"03216958920",
+      "crop_name":"Rice"
+    },
+    {
+      "id":13,
+      "name":"M. Ashraf",
+      "company":"Muslim Cotton Factory",
+      "address":"factory area faislabad",
+      "cell":"0413441936",
+      "crop_name":"Cotton"
+    },
+    {
+      "id":14,
+      "name":"Mustaq Toor",
+      "company":"Momin Cotton Factory",
+      "address":"Factory Area Faislabad",
+      "cell":"03007606676",
+      "crop_name":"Cotton"
+    },
+    {
+      "id":15,
+      "name":"M Rafique",
+      "company":"Channar Suger Mills",
+      "address":" 407 GB Faislabad",
+      "cell":"03214135595",
+      "crop_name":"SugerCane"
+    },
+    {
+      "id":16,
+      "name":"Mirza Ehsan ul Haq",
+      "company":"Ehsan ilahi cotton Industry",
+      "address":"Multan",
+      "cell":"03217413264",
+      "crop_name":"Cotton"
+    },
+    {
+      "id":17,
+      "name":"Mia Abdul Rasheed",
+      "company":"Three Star Textile Mills",
+      "address":"Sher Shah By Pas Multan",
+      "cell":"03006343901",
+      "crop_name":"Cotton"
+    },
+    {
+      "id":18,
+      "name":"Mushtaq Ahmad",
+      "company":"Hussain Mills",
+      "address":"Multan",
+      "cell":"03008630502",
+      "crop_name":"Cotton"
+    },
+    {
+      "id":19,
+      "name":"Shoukat Ali Khan",
+      "company":"Noroz Associate Textile Mills",
+      "address":"Multan",
+      "cell":"03007309318",
+      "crop_name":"Cotton"
+    },
+    {
+      "id":20,
+      "name":"Mushtaq Ahmad",
+      "company":"Hussain Mills",
+      "address":"Multan",
+      "cell":"03008630502",
+      "crop_name":"Cotton"
+    }
+  ]
